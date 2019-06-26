@@ -1,6 +1,5 @@
 FROM openjdk:8-jre
 
-
 MAINTAINER zyj
 
 ENV JAVA_HOME /usr/local/openjdk-8
